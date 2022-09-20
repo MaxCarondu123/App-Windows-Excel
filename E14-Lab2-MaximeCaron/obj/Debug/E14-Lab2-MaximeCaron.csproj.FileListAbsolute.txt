@@ -1,0 +1,12 @@
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\bin\Debug\E14-Lab2-MaximeCaron.exe.config
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\bin\Debug\E14-Lab2-MaximeCaron.exe
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\bin\Debug\E14-Lab2-MaximeCaron.pdb
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\obj\Debug\E14-Lab2-MaximeCaron.csproj.AssemblyReference.cache
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\obj\Debug\E14-Lab2-MaximeCaron.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\obj\Debug\E14-Lab2-MaximeCaron.csproj.ResolveComReference.cache
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\obj\Debug\E14_Lab2_MaximeCaron.Form1.resources
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\obj\Debug\E14_Lab2_MaximeCaron.Properties.Resources.resources
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\obj\Debug\E14-Lab2-MaximeCaron.csproj.GenerateResource.cache
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\obj\Debug\E14-Lab2-MaximeCaron.csproj.CoreCompileInputs.cache
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\obj\Debug\E14-Lab2-MaximeCaron.exe
+C:\Users\maxca\Desktop\Septembre 2022\E14\E14-Lab2-MaximeCaron\E14-Lab2-MaximeCaron\obj\Debug\E14-Lab2-MaximeCaron.pdb
